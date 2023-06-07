@@ -4,7 +4,7 @@ Toturial from Tiff in Tech https://www.youtube.com/watch?v=LXsdt6RMNfY
 
 Uses .venv
 
-From the command line (Bash):
+On the command line (Bash):
 python -m venv .venv
 source ./.venv/scripts/activate
 python -m pip install pyttsx3
