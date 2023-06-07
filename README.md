@@ -15,6 +15,6 @@ python -m pip install pyttsx3
 python -m pip install PyPDF2
 
 
-##Save a pdf (text only) into the root as story.pdf
+## Save a pdf (text only) into the root as story.pdf
 
-##Run the code, and it will create a story.mp3 file that you can listen to.
+## Run the code, and it will create a story.mp3 file that you can listen to.
